@@ -31,7 +31,6 @@ M³Detection is a multi-frame multi-level feature fusion framework for camera an
 
 ## News
 
-- **[2026-10]** The official repository of **M³Detection** is created.
 - **Code will be released soon.**
 
 ---
@@ -41,17 +40,6 @@ M³Detection is a multi-frame multi-level feature fusion framework for camera an
 🚧 **Coming Soon**
 
 We are currently organizing and cleaning the source code, configuration files, and documentation.
-
-The following materials will be released in this repository:
-
-- M³Detection source code
-- Model configuration files
-- Training and evaluation scripts
-- Dataset preparation instructions
-- Pre-trained model checkpoints
-- Reproduction instructions
-
-Please stay tuned.
 
 ---
 
@@ -83,19 +71,3 @@ If you find our work useful for your research, please consider citing our paper.
 ```
 
 ---
-
-## Acknowledgement
-
-More implementation details and acknowledgements will be provided together with the source code release.
-
----
-
-## Contact
-
-If you have any questions regarding M³Detection, please feel free to open an issue in this repository.
-
----
-
-<p align="center">
-  ⭐ If you find M³Detection useful, please consider starring this repository.
-</p>
